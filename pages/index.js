@@ -10,17 +10,17 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="https://nextjs.org">Magazinecrm!</a>
         </h1>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A place for switz magazine publishers  <code>pages/index.js</code>
         </p>
 
         <div className="grid">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Here we find  lot of useful tools for magazine publishers.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className="card">
